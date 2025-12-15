@@ -65,8 +65,6 @@ game-of-life/
 
 Add input from a file for custom initial configurations.
 
-Implement a graphical interface.
-
 Enable saving generations to an output file.
 
 📜 License
